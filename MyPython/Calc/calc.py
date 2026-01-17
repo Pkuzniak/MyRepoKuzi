@@ -1,5 +1,6 @@
 #Go to GITHub
 #Ver 1.0.0
+#2026.01.17
 
 choice = input ("* - Multiplication, / - Division , + - Addition, - - Subtraction, ** - Exponentiation, % - Modulo:   ")
 
